@@ -1,0 +1,24 @@
+#frame{
+  background-color: white;
+  height: 640px;
+  width: 640px;
+  border-style: solid;
+  border-width: 2px;
+  border-color: black;
+}
+
+#reset_button{
+  margin:auto;
+}
+
+.box{
+  background-color: white;
+  display: inline-block;
+  vertical-align: top;
+}
+
+.hovered{
+  background-color: black;
+  display: inline-block;
+  vertical-align: top;
+}
